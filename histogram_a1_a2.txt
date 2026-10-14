@@ -1,0 +1,8 @@
+== A1: versi race, 8 thread, 5 eksekusi ==
+race       waktu=2.013 total=98582389 benar=TIDAK
+race       waktu=0.646 total=97082129 benar=TIDAK
+race       waktu=0.664 total=97025635 benar=TIDAK
+race       waktu=0.663 total=97023812 benar=TIDAK
+race       waktu=0.681 total=96856143 benar=TIDAK
+== A2: versi race, 1 thread ==
+race       waktu=0.037 total=100000000 benar=ya

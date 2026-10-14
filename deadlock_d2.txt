@@ -1,0 +1,15 @@
+== eksekusi 1 ==
+saldo A = 1000.0, saldo B = 1000.0, total = 2000.0
+STATUS: selesai
+== eksekusi 2 ==
+saldo A = 1000.0, saldo B = 1000.0, total = 2000.0
+STATUS: selesai
+== eksekusi 3 ==
+saldo A = 1000.0, saldo B = 1000.0, total = 2000.0
+STATUS: selesai
+== eksekusi 4 ==
+saldo A = 1000.0, saldo B = 1000.0, total = 2000.0
+STATUS: selesai
+== eksekusi 5 ==
+saldo A = 1000.0, saldo B = 1000.0, total = 2000.0
+STATUS: selesai
